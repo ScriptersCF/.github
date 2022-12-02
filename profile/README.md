@@ -1,4 +1,4 @@
-# ScriptersCF GitHub Organisation
+# Welcome to the ScriptersCF Organisation!
 <a href="https://discordapp.com/invite/N9GRpSC"><img src="https://img.shields.io/discord/306153640023031820.svg?logo=discord&style=for-the-badge" height="30"></a>
 
 ### What is ScriptersCF?
@@ -9,3 +9,7 @@ This organisation is home to open-source repositories that are maintained by mem
 
 ### How do I get started?
 For more information to on how to submit your own repository to our organisation, visit the [#open-source](https://discord.gg/qVdBvKz) channel in our Discord server. To get started with Roblox development, we recommend the following YouTube series: [scf.cx/learn](https://scf.cx/learn)
+______
+- [Discord](https://discord.gg/N9GRpSC)
+- [Twitter](https://twitter.com/scripterscf)
+- [Roblox](https://www.roblox.com/groups/3232454/ScriptersCF)
